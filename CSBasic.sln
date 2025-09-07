@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hang_So", "Hang_So\Hang_So.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EpKieu", "EpKieu\EpKieu.csproj", "{9795490E-7D10-4008-A124-6587ECDBE0FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{3E82632A-E95F-4740-8DB8-287DAA3F387E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{0E4C1DEA-C7CE-4819-B822-F8AC13CC1011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{9795490E-7D10-4008-A124-6587ECDBE0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9795490E-7D10-4008-A124-6587ECDBE0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9795490E-7D10-4008-A124-6587ECDBE0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E82632A-E95F-4740-8DB8-287DAA3F387E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E82632A-E95F-4740-8DB8-287DAA3F387E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E82632A-E95F-4740-8DB8-287DAA3F387E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E82632A-E95F-4740-8DB8-287DAA3F387E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4C1DEA-C7CE-4819-B822-F8AC13CC1011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4C1DEA-C7CE-4819-B822-F8AC13CC1011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4C1DEA-C7CE-4819-B822-F8AC13CC1011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4C1DEA-C7CE-4819-B822-F8AC13CC1011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
